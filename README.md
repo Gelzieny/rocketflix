@@ -5,6 +5,15 @@
 Projeto desenvolvido como parte do desafio **Rocketflix** da trilha Discover da [Rocketseat](https://www.rocketseat.com.br/). O objetivo é criar uma aplicação que exibe informações de filmes aleatórios ao clicar no botão "Encontrar filme", utilizando a API do [The Movie Database (TMDb)](https://www.themoviedb.org/).
 </p>
 
+# 📄 Instruções do Desafio
+
+Confira os detalhes completos do desafio [clicando aqui](https://efficient-sloth-d85.notion.site/Desafio-Rocketflix-5ca1c56b5e52473eb12e8b2bc3ab1b8d).
+
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/8a6SH7S0h35qNktNk7MeVc/Rocketflix-%E2%80%A2-Desafio-Discover--Community---Copy-?node-id=0-1&p=f&t=qHMzLNz0NkeHiUvS-0>)
+
 
 ## 📸 Preview do Projeto
 
